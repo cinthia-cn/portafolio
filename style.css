@@ -1,3 +1,45 @@
 body{
-    background-color: rgba(255, 127, 180, 0.484);
+    background-color: rgba(143, 141, 133, 0.521);
+}
+
+#presentacion {
+    height: 90vh;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+
+    background-image: url("fondos/present.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.text-shadow-1 {
+    text-shadow: -2px 0px 6px rgba(0, 0, 0, 1);
+}
+
+#proyecto-1{
+    background-image: url('fondos/libros.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+
+#proyecto-2{
+    background-image: url('fondos/logo.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+#proyecto-3{
+    background-image: url('fondos/colores.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.texto-gigante{
+    font-size: 80px;
 }
