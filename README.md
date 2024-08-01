@@ -6,7 +6,7 @@ Fude desarrollado con HTML, CSS y JS con el uso de el framework de UI, Bootstrap
 
 La pagina es respondiba (adaptable a diferentes tamaños de pantalla) e incluye la presentacion de la autora del proyecto. 
 
-Proyecto desplegado 
+[Proyecto desplegado](URL del enlace)
 
 ## Secciones de mi sitio
 ![presentacion](fondos/readme/1.png)

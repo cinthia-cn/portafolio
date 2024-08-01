@@ -43,3 +43,9 @@ body{
 .texto-gigante{
     font-size: 80px;
 }
+
+.gupter-bold {
+    font-family: "Gupter", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
